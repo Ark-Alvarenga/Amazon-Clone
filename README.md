@@ -1,3 +1,12 @@
+# Amazon Clone
+
+This project was build using React.js and Firebase, with full user authentication and Payment Methods.
+Build displaying HTML and CSS to have a look close to real Amazon. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
